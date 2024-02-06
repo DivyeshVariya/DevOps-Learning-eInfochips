@@ -1,0 +1,6 @@
+write bash script code for 3 conditions to check file
+
+1-> executable
+2-> file
+3-> dir
+
